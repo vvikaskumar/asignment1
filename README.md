@@ -1,2 +1,3 @@
-# asignment1
-this is my first asignment 
+# asignment 1
+my name is vikas kumar 
+i did my first assignment 
